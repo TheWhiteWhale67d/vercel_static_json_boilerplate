@@ -1,0 +1,1 @@
+# vercel_static_json_boilerplate
